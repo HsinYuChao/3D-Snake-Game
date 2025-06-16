@@ -43,13 +43,13 @@
 - Unity Asset Store free packages  
 
 ## Installation
-1. 安裝 Unity（版本需支援 Android Build）
+1. 安裝 Unity（版本需支援 Android Build）。
 1. Clone 此專案：
    ```bash
    git clone https://github.com/HsinYuChao/3D-Snake-Game.git
-1. 使用 Unity Hub 開啟專案
-1. 切換平台至 Android 並建置 APK
-1. 或點擊 [下載 3DSnakeGame.apk](https://github.com/HsinYuChao/3D-Snake-Game/releases/download/v1.0/3DSnakeGameApp.apk)
+1. 使用 Unity Hub 開啟專案。
+1. 切換平台至 Android 並建置 APK。
+1. 或點擊 [下載 3DSnakeGame.apk](https://github.com/HsinYuChao/3D-Snake-Game/releases/download/v1.0/3DSnakeGameApp.apk)。
 > *備註：此 APK 檔案已上傳至本專案的 GitHub Release 頁面。*
 
 ## Notes
