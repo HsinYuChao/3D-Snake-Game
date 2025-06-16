@@ -1,7 +1,28 @@
 # 3D Snake Game (3D貪食蛇)
 
 作為經典手機遊戲的代表，貪食蛇歷經數十年仍廣受喜愛。我們結合經典玩法與創新元素，打造一款直觀操作、角色多樣、模式豐富的3D貪食蛇遊戲，帶來全新體驗。
-
+<table>
+  <tr>
+    <td align="center">
+      <img src="images/gamescreen1.jpg" width="200"><br>
+      <small>遊戲首頁</small>
+    </td>
+    <td align="center">
+      <img src="images/gamescreen4.jpg" width="200"><br>
+      <small>商店</small>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="images/gamescreen2.jpg" width="200"><br>
+      <small>CLASSIC模式</small>
+    </td>
+    <td align="center">
+      <img src="images/gamescreen3.jpg" width="200"><br>
+      <small>BOMB&LIFE模式</small>
+    </td>
+  </tr>
+</table>
 
 ## Gameplay & Controls
 - 操縱虛擬搖桿，控制在立體方塊上的貪食蛇。
@@ -16,7 +37,7 @@
 |------|------|----------|
 | 謝鴻恩 | 110034044 | 關卡設計、UI、音效|
 | 趙欣榆 | 111034009 | 遊戲主程式、UI |
-| 林映帆 | 112590019 | 特效、測試 |  
+| 林映帆 | 112590019 | 特效 |  
   
 
 ## Tools Used
